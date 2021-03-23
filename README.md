@@ -1,2 +1,15 @@
 # HazeRemovalList
-dehazing list
+
+## Content
+
+[Papers](#Papers)
+
+[Datasets](#Datasets)
+
+## Papers
+
+TBU
+
+## Datasets
+
+TBU
