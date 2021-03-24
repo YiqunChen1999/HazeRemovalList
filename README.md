@@ -22,8 +22,17 @@ Shao, Yuanjie, et al. "Domain adaptation for image dehazing." Proceedings of the
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dudhane_Varicolored_Image_De-Hazing_CVPR_2020_paper.pdf), [Code]()]
 Dudhane, Akshay, et al. "Varicolored image de-hazing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf), []()]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf), [Code]()]
 Pang, Yanwei, et al. "BidNet: Binocular image dehazing without explicit disparity estimation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w14/Mehta_HIDeGan_A_Hyperspectral-Guided_Image_Dehazing_GAN_CVPRW_2020_paper.pdf), [Code]()]
+Mehta, Aditya, et al. "Hidegan: A hyperspectral-guided image dehazing gan." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
+
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf), [Code]()]
+Hong, Ming, et al. "Distilling Image Dehazing With Heterogeneous Task Imitation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Multi-Scale_Boosted_Dehazing_Network_With_Dense_Feature_Fusion_CVPR_2020_paper.pdf), [Code](https://github.com/BookerDeWitt/MSBDN-DFF)]
+Dong, Hang, et al. "Multi-scale boosted dehazing network with dense feature fusion." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 
 ### 2019
 
