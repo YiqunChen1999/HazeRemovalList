@@ -1,5 +1,7 @@
 # HazeRemovalList
 
+A list of haze removal task and corresponding benchmark datasets. If you find some papers or datasets are missing, please feel free to open an issue, I will add them to the list. Thank you for your attention.
+
 ## Content
 
 [Papers](#Papers)
@@ -49,12 +51,21 @@ Qin, Xu, et al. "Ffa-net: Feature fusion attention network for single image deha
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Liu_Trident_Dehazing_Network_CVPRW_2020_paper.pdf), [Code](https://github.com/lj1995-computer-vision/Trident-Dehazing-Network)]
 Liu, Jing, et al. "Trident dehazing network." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_12), Code]
+Dong, Jiangxin, and Jinshan Pan. "Physics-Based Feature Dehazing Networks." European Conference on Computer Vision. Springer, Cham, 2020.
+
+[[Paper](https://arxiv.org/pdf/2008.01701.pdf), [Code](https://aupendu.github.io/iterative-dehaze)]
+Kar, Aupendu, et al. "Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing." arXiv preprint arXiv:2008.01701 (2020).
+
 ### 2019
+
+[[Paper](https://arxiv.org/pdf/1811.08747.pdf), [Code](https://github.com/cddlyf/GCANet)]
+Chen, Dongdong, et al. "Gated context aggregation network for image dehazing and deraining." 2019 IEEE winter conference on applications of computer vision (WACV). IEEE, 2019.
 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.pdf), [Code]()]
 Chen, Wei-Ting, Jian-Jiun Ding, and Sy-Yen Kuo. "PMS-net: Robust haze removal based on patch map for single images." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf), []()]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf), Code]
 Qu, Yanyun, et al. "Enhanced pix2pix dehazing network." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_GridDehazeNet_Attention-Based_Multi-Scale_Network_for_Image_Dehazing_ICCV_2019_paper.pdf), [Code](https://proteus1991.github.io/GridDehazeNet/)]
