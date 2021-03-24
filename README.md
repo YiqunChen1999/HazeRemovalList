@@ -10,6 +10,17 @@ A list of haze removal task and corresponding benchmark datasets. If you find so
 
 ## Papers
 
+### 2021
+
+[[Paper](https://arxiv.org/pdf/2102.03501), Code]
+Yi, Xin, et al. "Two-Step Image Dehazing with Intra-domain and Inter-domain Adaption." arXiv preprint arXiv:2102.03501 (2021).
+
+[[Paper](https://arxiv.org/pdf/2102.03268.pdf), Code]
+Liu, Huan, Chen Wang, and Jun Chen. "Indirect Domain Shift for Single Image Dehazing." arXiv preprint arXiv:2102.03268 (2021).
+
+[[Paper](https://arxiv.org/pdf/2101.10449.pdf), [Code](https://github.com/PS06/DIDH)]
+Shyam, Pranjay, Kuk-Jin Yoon, and Kyung-Soo Kim. "Towards Domain Invariant Single Image Dehazing." arXiv preprint arXiv:2101.10449 (2021).
+
 ### 2020
 
 [[Paper](https://link.springer.com/article/10.1007%2Fs11263-019-01235-8), Code]
