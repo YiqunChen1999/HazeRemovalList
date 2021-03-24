@@ -117,6 +117,9 @@ Deng, Zijun, et al. "Deep multi-model fusion for single-image dehazing." Proceed
 
 ### 2018
 
+[[Paper](https://arxiv.org/pdf/1804.05624.pdf), [Code]()]
+Cheng, Ziang, et al. "Semantic single-image dehazing." arXiv preprint arXiv:1804.05624 (2018).
+
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Gated_Fusion_Network_CVPR_2018_paper.pdf), [Code](https://github.com/rwenqi/GFN-dehazing)]
 Ren, Wenqi, et al. "Gated fusion network for single image dehazing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 
@@ -130,6 +133,9 @@ Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model-assisted multiband fusion f
 Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 
 ### 2017
+
+[[Paper](https://arxiv.org/pdf/2001.05246.pdf), Code]
+Song, Yafei, et al. "Single image dehazing using ranking convolutional neural network." IEEE Transactions on Multimedia 20.6 (2017): 1548-1560.
 
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf), [Code](https://github.com/Boyiliee/AOD-Net)]
 Li, Boyi, et al. "Aod-net: All-in-one dehazing network." Proceedings of the IEEE international conference on computer vision. 2017. 
