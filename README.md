@@ -12,6 +12,30 @@ A list of haze removal task and corresponding benchmark datasets. If you find so
 
 ### 2020
 
+[[Paper](https://link.springer.com/article/10.1007%2Fs11263-019-01235-8), Code]
+Ren, Wenqi, et al. "Single image dehazing via multi-scale convolutional neural networks with holistic edges." International Journal of Computer Vision 128.1 (2020): 240-259.
+
+[[Paper](https://arxiv.org/pdf/2004.08554.pdf), [Code](https://github.com/liruoteng/3DRealisticSceneDehaze)]
+Li, Ruoteng, et al. "Learning to Dehaze From Realistic Scene with A Fast Physics Based Dehazing Network." arXiv preprint arXiv:2004.08554 (2020).
+
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Das_Fast_Deep_Multi-Patch_Hierarchical_Network_for_Nonhomogeneous_Image_Dehazing_CVPRW_2020_paper.pdf), Code]
+Das, Sourya Dipta, and Saikat Dutta. "Fast deep multi-patch hierarchical network for nonhomogeneous image dehazing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
+
+[[Paper](https://arxiv.org/pdf/2006.16829.pdf), Code]
+Li, Boyun, et al. "You only look yourself: Unsupervised and untrained single image dehazing neural network." International Journal of Computer Vision (2021): 1-14.
+
+[[Paper](https://arxiv.org/pdf/2007.05220), Code]
+Liu, Chen, Jiaqi Fan, and Guosheng Yin. "Efficient Unpaired Image Dehazing with Cyclic Perceptual-Depth Supervision." arXiv preprint arXiv:2007.05220 (2020).
+
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w14/Shen_Implicit_Euler_ODE_Networks_for_Single-Image_Dehazing_CVPRW_2020_paper.pdf), Code]
+Shen, Jiawei, et al. "Implicit Euler ODE Networks for Single-Image Dehazing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
+
+[[Paper](https://arxiv.org/pdf/2008.03864.pdf), [Code](https://github.com/chaimi2013/3R)]
+Zhang, Jing, et al. "Nighttime dehazing with a synthetic benchmark." Proceedings of the 28th ACM International Conference on Multimedia. 2020.
+
+[[Paper](http://xxx.itp.ac.cn/pdf/2008.06632v1), Code]
+Anvari, Z. and Athitsos, V., “Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training”, <i>arXiv e-prints</i>, 2020.
+
 [[Paper](https://ieeexplore.ieee.org/document/9134933), [Code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze)]
 Dhara, Sobhan Kanti, et al. "Color cast dependent image dehazing via adaptive airlight refinement and non-linear color balancing." IEEE Transactions on Circuits and Systems for Video Technology (2020).
 
