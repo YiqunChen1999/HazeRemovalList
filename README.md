@@ -145,8 +145,23 @@ Li, Boyi, et al. "Aod-net: All-in-one dehazing network." Proceedings of the IEEE
 ### RESIDE
 
 There are three versions of RESIDE:
-[RESIDE V0](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)
-[RESIDE Standard](https://sites.google.com/view/reside-dehaze-datasets/reside-standard)
-[RESIDE &beta](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2)
+[RESIDE-V0](https://sites.google.com/view/reside-dehaze-datasets/reside-v0), 
+[RESIDE-Standard](https://sites.google.com/view/reside-dehaze-datasets/reside-standard), 
+[RESIDE-&beta](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2). 
 
-RESIDE is a new large-scale benchmark consisting of both synthetic and real-world hazy images, called REalistic Single Image DEhazing (RESIDE). RESIDE highlights diverse data sources and image contents, and is divided into five subsets, each serving different training or evaluation purposes. We further provide a rich variety of criteria for dehazing algorithm evaluation, ranging from full-reference metrics, to no-reference metrics, to subjective evaluation and the novel task-driven evaluation.
+RESIDE is a new large-scale benchmark consisting of both synthetic and real-world hazy images, called REalistic Single Image DEhazing (RESIDE). RESIDE highlights diverse data sources and image contents, and is divided into five subsets (ITS, OTS, SOTS, RTTS, HSTS), each serving different training or evaluation purposes. 
+
+ITS (Indoor Training Set): synthetic data.
+
+OTS (Out Training Set): synthetic data.
+
+SOTS (Synthetic Object Testing Set): synthetic data.
+
+HSTS (Hybrid Subjective Testing Set): real data.
+
+RTTS (Real-world Task-driven Testing Set): real data.
+
+
+
+
+
