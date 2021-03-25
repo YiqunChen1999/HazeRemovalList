@@ -184,4 +184,9 @@ RTTS (Real-world Task-driven Testing Set): real data.
 ### Dataset for NTIRE 2021 Dehazing Competition
 
 [Paper, [Link](https://competitions.codalab.org/competitions/28032#participate)]
+[Dataset](https://competitions.codalab.org/competitions/28032) (real data): dataset for NTIRE 2021 dehazing competition.
 
+### D-Hazy 
+
+[[Paper](http://ancuti.meo.etc.upt.ro/D_Hazzy_ICIP2016/D_HAZY_ICIP2016.pdf), [Link](http://ancuti.meo.etc.upt.ro/D_Hazzy_ICIP2016/D-HAZY_DATASET.zip)]
+[D-Hazy](http://ancuti.meo.etc.upt.ro/D_Hazzy_ICIP2016/) (synthetic data): D-HAZY is built on the Middelbury [1] and NYU Depth [2] datasets that provide images of various scenes and their corresponding depth maps.
