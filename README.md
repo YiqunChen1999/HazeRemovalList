@@ -5,6 +5,11 @@ A list of haze removal task and corresponding benchmark datasets. If you find so
 ## Content
 
 [Papers](#Papers)
+- 2021(#2021)
+- 2020(#2020)
+- 2019(#2019)
+- 2018(#2018)
+- Before(#Before)
 
 [Datasets](#Datasets)
 
